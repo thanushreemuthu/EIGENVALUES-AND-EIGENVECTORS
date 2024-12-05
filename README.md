@@ -21,6 +21,6 @@ e_values,e_vectors=np.linalg.eig(matrix)
 print("Eigen values are {} and Eigen Vectors are {}".format(e_values,e_vectors))
 
 ## Output:
-
-## Re![Alt text](exp4.png)sult:
+![Alt text](exp4-1.png)
+## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
